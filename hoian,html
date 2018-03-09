@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hội An </title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="trangchu.css">
+    <div id="menu">
+  <ul>
+    <div class="logo">
+
+    <a href="trangchu.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif" border="0" alt=" photo 28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif"></a>
+    </div>
+
+    <li><a href="trangchu.html">Trang chủ</a></li>
+
+    <li><a href="tintuc.html">Tin tức</a>
+      <ul class="sub-menu">
+
+        <li><a href="#">Lễ hội</a></li>
+
+        <li><a href="#">Hot</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Hỏi đáp</a></li>
+    <li><a href="#">Liên hệ</a></li>
+  </ul>
+</div>
+
+<p id=tenhoian style="text-indent:9cm;">HỘI AN </p>
+
+<div id=hoiantrangchu1 class="hoiantrangchu">
+
+<p align="center"><a href="http://s1331.photobucket.com/user/sontugn/media/ha1_zpsivyytocx.jpg.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/ha1_zpsivyytocx.jpg" border="0" alt=" photo ha1_zpsivyytocx.jpg"/></a>
+  <p  align="center">Chùa Cầu Hội An</p>
+<p><strong><em>Một địa danh nổi tiếng thế giới có từ lâu đời, được Unesco công nhận là di sản văn hóa thế giới, một địa điểm du lịch nổi tiếng của miền trung Việt Nam.</em></strong></p>
+<p>Hội An là một thị xã cổ của người Việt, nằm ở vùng hạ lưu ngã ba sông Thu Bồn thuộc vùng đồng bằng ven biển tỉnh Quảng Nam, cách thành phố Đà Nẵng khoảng 30km về phía nam. Hội An từng được biết đến trên thương trường quốc tế với nhiều tên gọi khác nhau như Lâm Ấp, Faifo, Hoài Phố và Hội An.
+
+</p>
+<p>Là một kiểu cảng thị truyền thống Đông Nam Á duy nhất ở Việt Nam, hiếm có trên thế giới, Hội An giữ được gần như nguyên vẹn hơn một nghìn di tích kiến trúc như phố xá, nhà cửa, hội quán, đình, chùa, miếu, nhà thờ tộc, giếng cổ, mộ cổ... Các kiến trúc vừa có sắc thái nghệ thuật truyền thống của Việt Nam, vừa thể hiện sự giao lưu hội nhập văn hoá với các nước phương Đông và phương Tây. Trải qua nhiều thế kỷ, những phong tục tập quán, nghi lễ, sinh hoạt văn hoá, tín ngưỡng cũng như các món ăn truyền thống vẫn lưu giữ, bảo tồn cùng với bao thế hệ người dân phố cổ. Hội An còn có một môi trường thiên nhiên trong lành, êm ả với những làng nhỏ ngoại ô xinh xắn, có nghề thủ công như mộc, làm đồ đồng, gốm…</p>
+<p align="center"><a href="http://s1331.photobucket.com/user/sontugn/media/ha2_zpsb51yszln.jpg.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/ha2_zpsb51yszln.jpg" border="0" alt=" photo ha2_zpsb51yszln.jpg"/></a>
+  <p align="center">Hội quán Phúc Kiến</p>
+<p> Các nhà nghiên cứu cho rằng kiến trúc cổ ở Hội An hầu hết được làm lại mới từ đầu thế kỷ 19, mặc dù năm khởi dựng có thể xưa hơn nhiều. Kiến trúc cổ thể hiện rõ nhất ở khu phố cổ. Nằm trọn trong địa bàn của phường Minh An, Khu phố cổ có diện tích khoảng 2km², tập trung phần lớn các di tích nổi tiếng ở Hội An. Đường phố ở khu phố cổ ngắn và hẹp, có độ uốn lượn, chạy ngang dọc theo kiểu bàn cờ. Địa hình khu phố cổ có dạng nghiêng dần từ bắc xuống nam. Các công trình kiến trúc trong khu phố cổ được xây dựng hầu hết bằng vật liệu truyền thống: gạch, gỗ và không có nhà quá hai tầng. Du khách dễ nhận ra dấu vết thời gian không chỉ ở kiểu dáng kiến trúc của mỗi công trình mà có ở mọi nơi: trên những mái nhà lợp ngói âm dương phủ kín rêu phong và cây cỏ; những mảng tường xám mốc, xưa cũ; những bức chạm khắc về một con vật lạ hay diễn tả một câu chuyện cổ... Nơi đây hẳn đã thu hút được các nghệ nhân tài hoa về nghề mộc, nề, gốm sứ của người Hoa, người Nhật, người Việt, người Chăm... cho nên mỗi công trình để lại hôm nay còn in dấu ấn văn hoá khá đa dạng, phong phú của nhiều dân tộc.</p>
+<p align="center"><a href="http://s1331.photobucket.com/user/sontugn/media/ha3_zps3ethpmbt.jpg.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/ha3_zps3ethpmbt.jpg" border="0" alt=" photo ha3_zps3ethpmbt.jpg"/></a>
+  <p align="center">  Phố cổ Hội An</p>
+<p> Trong nhiều thế kỷ, Hội An đã từng là nơi gặp gỡ, giao lưu của nhiều nền văn hoá khác nhau trên thế giới. Bên cạnh những phong tục tập quán bản địa của người Việt còn có thêm những tập tục của cộng đồng cư dân nước ngoài đến định cư như tục thờ đá; thờ Cá Ông của cư dân ven biển Trung bộ; thờ các hiện tượng tự nhiên như mưa, gió, sấm, sét hay vật thiêng (cây cổ thụ),...</p>
+<p> Cộng đồng người Hoa ở Hội An có tục thờ các vị thần bảo trợ như Thiên Hậu, Quan Công, Bảo Sinh Đại Đế, Quan Âm Bồ Tát. Họ thường xuyên tổ chức các kỳ lễ hội hay sinh hoạt văn hoá tín ngưỡng khác trong các ngày vía thần như tết Nguyên Tiêu (16/1 âm lịch), Thanh Minh (tháng 3 âm lịch), Đoan Ngọ (5/5 âm lịch), Trung Thu (15/8), Trùng Cửu (9/9 âm lịch), Hạ Nguyên (15/10 âm lịch).</p>
+<p> Những yếu tố về mặt xã hội cũng như văn hoá đa dạng này tạo nên nét riêng cho cộng đồng cư dân ở Hội An.</p>
+<p align="center"><a href="http://s1331.photobucket.com/user/sontugn/media/ha4_zpszhs9lid0.jpg.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/ha4_zpszhs9lid0.jpg" border="0" alt=" photo ha4_zpszhs9lid0.jpg"/></a>
+<p> Người Hội An vốn giàu truyền thống văn hoá lại sớm giao lưu với thế giới bên ngoài, không biết tự bao giờ đã hình thành một bản sắc văn hoá độc đáo riêng và được giữ gìn, bảo tồn qua bao thế hệ cho đến hôm nay. Cuộc sống của con người nơi đây thiên về nội tâm, phảng phất nét trầm lắng. Với họ đô thị Hội An như một mái nhà lớn cổ kính mà trong đó đang chung sống một đại gia đình đông đúc con cháu với những người thị dân hiền hoà gần gũi và hiếu khách; những chủ gia đình ân cần, thân thiện; những phụ nữ dịu dàng, khéo tay, nhân hậu; những trẻ em lễ độ, ngoan ngoãn... tạo nên một cộng đồng cư dân hoà thuận sống bình dị, êm đềm bên nhau qua bao thế hệ và cứ như vậy tiếp nối.</p>
+<p align="center"><a href="http://s1331.photobucket.com/user/sontugn/media/ha5_zpsdcakllj8.jpg.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/ha5_zpsdcakllj8.jpg" border="0" alt=" photo ha5_zpsdcakllj8.jpg"/></a>
+  <p align="center">Đèn lồng Hội An</p>
+<p> Sự phong phú, đa dạng về tâm hồn giàu bản sắc văn hoá của người Hội An còn được biểu hiện ở các món ăn truyền thống như cao lầu, hoành thánh, bánh tổ, bánh ít gai... từ bao đời nay vẫn được lưu truyền để hôm nay thực khách bốn phương vẫn có cơ may được thưởng thức. Cuộc sống đã bao đổi thay qua năm tháng nhưng người Hội An không bị mất đi những điệu hò quen thuộc, những lễ hội văn hoá đã có từ ngàn xưa, tất thảy vốn cổ ở đây đều được trân trọng giữ gìn... Một đêm hội được tổ chức hằng tháng vào tối 14 âm lịch và đây cũng là dịp du khách khắp nơi được sống trong bầu không khí mang đậm bản sắc truyền thống của Hội An.</p>
+<p align="center"><a href="http://s1331.photobucket.com/user/sontugn/media/ha6_zpsdlmv8flr.jpg.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/ha6_zpsdlmv8flr.jpg" border="0" alt=" photo ha6_zpsdlmv8flr.jpg"/></a>
+    <p align="center">Hội An đêm trăng rằm</p>
+<p> Tại kỳ họp thứ 23 từ ngày 29/11 đến 4/12/1999 ở Marrakesh (Maroc), Tổ chức Văn hoá - Khoa học - Giáo dục Liên hiệp quốc (UNESCO) đã ghi tên Hội An vào danh mục các Di sản Văn hoá Thế giới.</p>
+</div>
+<div id="footer">
+<div class="fLeft">
+<p>HTCtravel<br/<
+<p>Địa chỉ: HTC company<br /<
+<p>Điện thoại: 012.3456789<br/<
+<p>Email: <a href="mailto:ntminhhieu98@gmail.com">ntminhhieu98@gmail.com</a></p>
+<!-- / class fLeft --></div>
+
+<div class="fRight">
+<ul>
+<li><a href="#">Trang chủ</a></li>
+<li><a href="#">Facebook </a></li>
+<li><a href="#">Liên hệ </a></li>
+<li><a href="#">HTC company </a></li>
+</ul>
+<!-- / class fRight --></div>
+<!-- / id footer --></div>
+<!-- / id layout --></div>
+  </body>
+</html>
