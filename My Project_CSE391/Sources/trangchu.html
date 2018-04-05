@@ -3,7 +3,10 @@
 <title>DU LỊCH VIỆT NAM</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="trangchu.css">
+<link rel="stylesheet" href="css/trangchu.css">
+<link rel="stylesheet" href="css/anh.css">
+<link rel="stylesheet" href="css/menu.css">
+<link rel="stylesheet" href="css/footer.css">
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 </style>
@@ -58,7 +61,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     </div>
   </div>
 </header>
-
   <p id=tencacdiadiem align="center">CÁC ĐỊA ĐIỂM NỔI TIẾNG Ở VIỆT NAM </p>
 <iframe scrolling="no" width="0" height="0" src="https://mp3.zing.vn/embed/song/ZW9AE770?start=true" frameborder="0" allowfullscreen="true"></iframe>
 <div class="fileanh">
@@ -110,11 +112,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
   </div>
 
   <div class="anh12">
-    <a href="bariavungtau.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/DJI_0001_zpsb1seyl8s.jpg" alt="logo" /></a>
+    <a href="bariavungtau.html" target="_blank"><img src="http://hanoiphohotel.com/wp-content/uploads/2018/01/Travelbay-Vietna-and-Sapa-Rice-fields_copy.jpg" alt="logo" /></a>
 
   </div>
-  <video control loop src="https://media.giphy.com/media/fZVZw31s8E4kXlPaAN/giphy.mp4" autoplay poster="posterimage.jpg"></video>
 
+  <video control loop src="https://media.giphy.com/media/fZVZw31s8E4kXlPaAN/giphy.mp4" autoplay poster="posterimage.jpg"></video>
 
 <div class="w3-container" id="contact">
   <h2>LIÊN HỆ</h2>
@@ -145,7 +147,29 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
   <p>Powered by <a href="https://plus.google.com/u/0/106974998444610829545" target="_blank" class="w3-hover-text-green">ntminhhieu98@gmail.com</a></p>
 </footer>
 
+<!-- Add Google Maps -->
+<script>
+function myMap()
+{
+  myCenter=new google.maps.LatLng(41.878114, -87.629798);
+  var mapOptions= {
+    center:myCenter,
+    zoom:12, scrollwheel: false, draggable: false,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
 
+  var marker = new google.maps.Marker({
+    position: myCenter,
+  });
+  marker.setMap(map);
+}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+<!--
+To use this code on your website, get a free API key from Google.
+Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
+-->
 
 </body>
 </html>
