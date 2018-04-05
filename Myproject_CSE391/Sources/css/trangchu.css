@@ -618,6 +618,12 @@ opacity: 0.2;
    margin-left: 10%;
    margin-right: 10%;
 }
+#dangnhapc{
+   margin-left: 46%;
+}
+#dangkyc{
+   margin-left: 46%;
+}
 /* HTC COMPANY :)) */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
